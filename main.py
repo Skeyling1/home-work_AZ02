@@ -13,7 +13,7 @@ import pandas as pd
 import numpy as np
 
 pupils_list = {
-    "aaa" : 
+    "aaa" :
 }
 
 df = pd.DataFrame()
